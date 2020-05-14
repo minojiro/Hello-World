@@ -1,3 +1,3 @@
-variable <- "Hello World"
+variable <- "Hello minoJiro!"
 print (variable)
 

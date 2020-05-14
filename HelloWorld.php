@@ -1,9 +1,9 @@
 <?php
   // In PHP, we use echo to print text
-  echo "Hello World";
+  echo "Hello minoJiro!";
   // If you want to print in browser's console, we use print_r
-  print_r("Hello World");
+  print_r("Hello minoJiro!");
   // if you want the variable data types as well use var_dump
-  $stringVar = 'hello world';
+  $stringVar = 'Hello minoJiro!';
   var_dump($stringVar);
 ?>

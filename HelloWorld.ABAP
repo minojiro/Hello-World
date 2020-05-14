@@ -1,5 +1,5 @@
 REPORT zhelloworld
-* Write hello world to screen
-WRITE 'Hello World'.
-* Display hello world message.
-MESSAGE 'Hello World' TYPE 'I'.
+* Write Hello minoJiro! to screen
+WRITE 'Hello minoJiro!'.
+* Display Hello minoJiro! message.
+MESSAGE 'Hello minoJiro!' TYPE 'I'.

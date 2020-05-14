@@ -1,3 +1,3 @@
-fprintf ( 1, 'Hello, world!' );
+fprintf ( 1, 'Hello, minoJiro!' );
 
 quit

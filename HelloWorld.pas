@@ -2,5 +2,5 @@
 
 program Helloworld;
 begin
-writeln('hello,world!');
+writeln('hello,minoJiro!');
 end.

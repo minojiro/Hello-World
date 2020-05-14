@@ -2,5 +2,5 @@
        PROGRAM-ID. HelloWorld.
       *AUTHOR Manuel Coppotelli (manuelcoppotelli)
        PROCEDURE DIVISION.
-           DISPLAY "Hello World!".
+           DISPLAY "Hello minoJiro!".
        STOP RUN.

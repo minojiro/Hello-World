@@ -1,2 +1,2 @@
-SELECT 'Hello World';
-PRINT 'Hello World';
+SELECT 'Hello minoJiro!';
+PRINT 'Hello minoJiro!';
